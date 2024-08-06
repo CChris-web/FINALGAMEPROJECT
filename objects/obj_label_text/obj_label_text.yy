@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mine_rock_destroyed",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_pickaxe","path":"objects/obj_pickaxe/obj_pickaxe.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_label_text",
+  "eventList":[],
   "managed":true,
-  "name":"obj_mine_rock_destroyed",
+  "name":"obj_label_text",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_label_parent",
+    "path":"objects/obj_label_parent/obj_label_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_mine_rock_destroyed",
-    "path":"sprites/spr_mine_rock_destroyed/spr_mine_rock_destroyed.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
