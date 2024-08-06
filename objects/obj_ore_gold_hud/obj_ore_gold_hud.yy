@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_pickaxe",
+  "%Name":"obj_ore_gold_hud",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_mine_rock_destroyed","path":"objects/obj_mine_rock_destroyed/obj_mine_rock_destroyed.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_ore_gold","path":"objects/obj_ore_gold/obj_ore_gold.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_pickaxe",
+  "name":"obj_ore_gold_hud",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pickaxe",
-    "path":"sprites/spr_pickaxe/spr_pickaxe.yy",
+    "name":"spr_ore_gold",
+    "path":"sprites/spr_ore_gold/spr_ore_gold.yy",
   },
   "spriteMaskId":null,
   "visible":true,

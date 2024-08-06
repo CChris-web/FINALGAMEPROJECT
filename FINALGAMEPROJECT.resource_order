@@ -38,6 +38,7 @@
     {"name":"obj_mine_wall2","order":5,"path":"objects/obj_mine_wall2/obj_mine_wall2.yy",},
     {"name":"obj_miner_player","order":3,"path":"objects/obj_miner_player/obj_miner_player.yy",},
     {"name":"obj_ore_gold_giant","order":27,"path":"objects/obj_ore_gold_giant/obj_ore_gold_giant.yy",},
+    {"name":"obj_ore_gold_hud","order":28,"path":"objects/obj_ore_gold_hud/obj_ore_gold_hud.yy",},
     {"name":"obj_ore_gold","order":17,"path":"objects/obj_ore_gold/obj_ore_gold.yy",},
     {"name":"obj_pickaxe","order":13,"path":"objects/obj_pickaxe/obj_pickaxe.yy",},
     {"name":"obj_snake","order":14,"path":"objects/obj_snake/obj_snake.yy",},

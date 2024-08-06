@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"FINALGAMEPROJECT",
   "resources":[
@@ -57,6 +57,7 @@
     {"id":{"name":"obj_mine_wall2","path":"objects/obj_mine_wall2/obj_mine_wall2.yy",},},
     {"id":{"name":"obj_miner_player","path":"objects/obj_miner_player/obj_miner_player.yy",},},
     {"id":{"name":"obj_ore_gold_giant","path":"objects/obj_ore_gold_giant/obj_ore_gold_giant.yy",},},
+    {"id":{"name":"obj_ore_gold_hud","path":"objects/obj_ore_gold_hud/obj_ore_gold_hud.yy",},},
     {"id":{"name":"obj_ore_gold","path":"objects/obj_ore_gold/obj_ore_gold.yy",},},
     {"id":{"name":"obj_pickaxe","path":"objects/obj_pickaxe/obj_pickaxe.yy",},},
     {"id":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},},
