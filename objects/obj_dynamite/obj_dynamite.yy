@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_dynamite",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_dynamite",
   "overriddenProperties":[],
