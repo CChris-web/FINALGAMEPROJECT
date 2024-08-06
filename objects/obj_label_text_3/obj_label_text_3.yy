@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_label_text",
+  "%Name":"obj_label_text_3",
   "eventList":[],
   "managed":true,
-  "name":"obj_label_text",
+  "name":"obj_label_text_3",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_label_parent","path":"objects/obj_label_parent/obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/obj_label_parent/obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"TERRA ADVENTURE\\nBy: Christian Reyes and Nicholas Messina\\nGoal Is To Gain Treasure While Avoiding Obstacles",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_label_parent","path":"objects/obj_label_parent/obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/obj_label_parent/obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"CONTROLS\\nUp Arrow: Jump\\nRight Arrow: Move Right\\nLeft Arrow: Move Right",},
   ],
   "parent":{
     "name":"Objects",

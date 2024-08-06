@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dynamite",
-  "eventList":[],
+  "%Name":"obj_ore_gold_giant",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_miner_player","path":"objects/obj_miner_player/obj_miner_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_dynamite",
+  "name":"obj_ore_gold_giant",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_dynamite",
-    "path":"sprites/spr_dynamite/spr_dynamite.yy",
+    "name":"spr_ore_gold_giant",
+    "path":"sprites/spr_ore_gold_giant/spr_ore_gold_giant.yy",
   },
   "spriteMaskId":null,
   "visible":true,

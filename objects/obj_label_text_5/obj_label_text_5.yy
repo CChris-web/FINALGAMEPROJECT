@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_label_text",
+  "%Name":"obj_label_text_5",
   "eventList":[],
   "managed":true,
-  "name":"obj_label_text",
+  "name":"obj_label_text_5",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_label_parent","path":"objects/obj_label_parent/obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/obj_label_parent/obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"TERRA ADVENTURE\\nBy: Christian Reyes and Nicholas Messina\\nGoal Is To Gain Treasure While Avoiding Obstacles",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_label_parent","path":"objects/obj_label_parent/obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/obj_label_parent/obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"You Have Gained Treasure and Now Will Continue Further Into the Unkown",},
   ],
   "parent":{
     "name":"Objects",
