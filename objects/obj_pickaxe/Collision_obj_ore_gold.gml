@@ -30,6 +30,6 @@ gold_ore += 1;
 
 /// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 /// @DnDVersion : 1
-/// @DnDHash : 72C0D96D
+/// @DnDHash : 5CD73021
 /// @DnDArgument : "msg" "gold_ore"
 show_debug_message(string(gold_ore));

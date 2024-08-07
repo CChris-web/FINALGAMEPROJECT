@@ -15,10 +15,12 @@ move_x = move_x * walk_speed;
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 6B06979A
+/// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "obj_nicholas_floor"
-var l6B06979A_0 = instance_place(0, y + 2, [obj_nicholas_floor]);
+/// @DnDSaveInfo : "object" "obj_nicholas_floor"
+var l6B06979A_0 = instance_place(x + 0, y + 2, [obj_nicholas_floor]);
 if ((l6B06979A_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Common.Variable
@@ -32,9 +34,8 @@ if ((l6B06979A_0 > 0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 084073B1
 	/// @DnDParent : 6B06979A
-	/// @DnDArgument : "key" "vk_up"
 	var l084073B1_0;
-	l084073B1_0 = keyboard_check_pressed(vk_up);
+	l084073B1_0 = keyboard_check_pressed(vk_space);
 	if (l084073B1_0)
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
@@ -80,6 +81,7 @@ else
 /// @DnDArgument : "maxxmove" "walk_speed"
 /// @DnDArgument : "maxymove" "jump_speed"
 /// @DnDArgument : "object" "obj_nicholas_floor"
+/// @DnDSaveInfo : "object" "obj_nicholas_floor"
 move_and_collide(move_x, move_y, obj_nicholas_floor,4,0,0,walk_speed,jump_speed);
 
 /// @DnDAction : YoYo Games.Common.Variable
