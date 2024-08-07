@@ -30,10 +30,10 @@ if ((l5EFB3CE1_0 > 0))
 /// @DnDVersion : 1
 /// @DnDHash : 798881BA
 /// @DnDComment : gravity
-/// @DnDArgument : "expr" "0.05"
+/// @DnDArgument : "expr" "1"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "move_y"
-move_y += 0.05;
+move_y += 1;
 
 /// @DnDAction : YoYo Games.Movement.move_and_collide
 /// @DnDVersion : 1
