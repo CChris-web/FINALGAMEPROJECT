@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_ore_gold_giant",
+  "%Name":"spr_ore_gold_ending",
   "bboxMode":0,
   "bbox_bottom":191,
   "bbox_left":0,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d23a1889-c293-4077-a641-b496ffad5a5a","name":"d23a1889-c293-4077-a641-b496ffad5a5a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b94fd9b6-3877-42c4-9e32-92875b41bde6","name":"b94fd9b6-3877-42c4-9e32-92875b41bde6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"85a65c88-a62f-4c41-92ca-8c1dd1638046","blendMode":0,"displayName":"default","isLocked":false,"name":"85a65c88-a62f-4c41-92ca-8c1dd1638046","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_ore_gold_giant",
+  "name":"spr_ore_gold_ending",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_ore_gold_giant",
+    "%Name":"spr_ore_gold_ending",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_ore_gold_giant",
+    "name":"spr_ore_gold_ending",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d23a1889-c293-4077-a641-b496ffad5a5a","path":"sprites/spr_ore_gold_giant/spr_ore_gold_giant.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ec7c875f-5c10-48d4-ae3a-82cd7fdf99bf","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b94fd9b6-3877-42c4-9e32-92875b41bde6","path":"sprites/spr_ore_gold_ending/spr_ore_gold_ending.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"07fbb39a-bd4f-4ebf-baa3-0fdd2645a1bf","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
