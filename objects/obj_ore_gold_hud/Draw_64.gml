@@ -2,10 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 1C2B2379
 /// @DnDArgument : "obj" "obj_miner_player"
+/// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "obj" "obj_miner_player"
 var l1C2B2379_0 = false;
 l1C2B2379_0 = instance_exists(obj_miner_player);
-if(l1C2B2379_0)
+if(!l1C2B2379_0)
 {
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
@@ -33,6 +34,6 @@ draw_set_font(OpenSans);
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "-15"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""Gold Ore ""
-/// @DnDArgument : "var" "obj_miner_player.gold_ore"
-draw_text(x + 30, y + -15, string("Gold Ore ") + string(obj_miner_player.gold_ore));
+/// @DnDArgument : "caption" ""Gold Ore: ""
+/// @DnDArgument : "var" "obj_miner_player.ore_gold"
+draw_text(x + 30, y + -15, string("Gold Ore: ") + string(obj_miner_player.ore_gold));
