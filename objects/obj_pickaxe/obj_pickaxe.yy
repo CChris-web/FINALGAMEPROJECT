@@ -2,8 +2,8 @@
   "$GMObject":"",
   "%Name":"obj_pickaxe",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_mine_rock_destroyed","path":"objects/obj_mine_rock_destroyed/obj_mine_rock_destroyed.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_ore_gold","path":"objects/obj_ore_gold/obj_ore_gold.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_mine_rock_destroyed","path":"objects/obj_mine_rock_destroyed/obj_mine_rock_destroyed.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_ore_gold","path":"objects/obj_ore_gold/obj_ore_gold.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_pickaxe",

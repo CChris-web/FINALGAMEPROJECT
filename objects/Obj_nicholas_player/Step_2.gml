@@ -10,7 +10,6 @@ if(move_y > 0 ||move_y < 0 )
 	/// @DnDParent : 25633F0C
 	/// @DnDArgument : "imageind_relative" "1"
 	/// @DnDArgument : "spriteind" "spr_Nicholas_player_jump"
-	/// @DnDSaveInfo : "spriteind" "spr_Nicholas_player_jump"
 	sprite_index = spr_Nicholas_player_jump;
 	image_index += 0;
 }
@@ -21,10 +20,10 @@ if(move_y > 0 ||move_y < 0 )
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "object" "obj_nicholas_floor"
+/// @DnDArgument : "object" "obj_mine_rock"
 /// @DnDArgument : "not" "1"
-/// @DnDSaveInfo : "object" "obj_nicholas_floor"
-var l7E879BAF_0 = instance_place(x + 0, y + 2, [obj_nicholas_floor]);
+/// @DnDSaveInfo : "object" "obj_mine_rock"
+var l7E879BAF_0 = instance_place(x + 0, y + 2, [obj_mine_rock]);
 if (!(l7E879BAF_0 > 0))
 {
 
@@ -50,7 +49,6 @@ else
 		/// @DnDParent : 5D880FA3
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "spr_nicholas_player_walk"
-		/// @DnDSaveInfo : "spriteind" "spr_nicholas_player_walk"
 		sprite_index = spr_nicholas_player_walk;
 		image_index += 0;
 	
@@ -79,7 +77,6 @@ else
 		/// @DnDParent : 78F9ED31
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "spr_nicholas_player_walk"
-		/// @DnDSaveInfo : "spriteind" "spr_nicholas_player_walk"
 		sprite_index = spr_nicholas_player_walk;
 		image_index += 0;
 	

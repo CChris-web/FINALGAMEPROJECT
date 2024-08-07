@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"obj_ore_gold_ending",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_miner_player","path":"objects/obj_miner_player/obj_miner_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_miner_player","path":"objects/obj_miner_player/obj_miner_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_ore_gold_ending",

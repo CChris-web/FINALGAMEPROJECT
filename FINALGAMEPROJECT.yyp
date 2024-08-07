@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"FINALGAMEPROJECT",
   "resources":[
@@ -66,9 +66,12 @@
     {"id":{"name":"obj_snake","path":"objects/obj_snake/obj_snake.yy",},},
     {"id":{"name":"Controls","path":"rooms/Controls/Controls.yy",},},
     {"id":{"name":"Ending","path":"rooms/Ending/Ending.yy",},},
+    {"id":{"name":"LOSS_Level_2","path":"rooms/LOSS_Level_2/LOSS_Level_2.yy",},},
     {"id":{"name":"LOSS","path":"rooms/LOSS/LOSS.yy",},},
+    {"id":{"name":"Mine_Cavern_level_2","path":"rooms/Mine_Cavern_level_2/Mine_Cavern_level_2.yy",},},
     {"id":{"name":"Mine_Cavern","path":"rooms/Mine_Cavern/Mine_Cavern.yy",},},
     {"id":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},},
+    {"id":{"name":"WIN_2","path":"rooms/WIN_2/WIN_2.yy",},},
     {"id":{"name":"WIN","path":"rooms/WIN/WIN.yy",},},
     {"id":{"name":"Bitten","path":"sounds/Bitten/Bitten.yy",},},
     {"id":{"name":"Mine_Theme","path":"sounds/Mine_Theme/Mine_Theme.yy",},},
@@ -104,12 +107,15 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Mine_Cavern_level_2","path":"rooms/Mine_Cavern_level_2/Mine_Cavern_level_2.yy",},},
     {"roomId":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},},
     {"roomId":{"name":"Mine_Cavern","path":"rooms/Mine_Cavern/Mine_Cavern.yy",},},
     {"roomId":{"name":"Controls","path":"rooms/Controls/Controls.yy",},},
     {"roomId":{"name":"LOSS","path":"rooms/LOSS/LOSS.yy",},},
     {"roomId":{"name":"WIN","path":"rooms/WIN/WIN.yy",},},
     {"roomId":{"name":"Ending","path":"rooms/Ending/Ending.yy",},},
+    {"roomId":{"name":"LOSS_Level_2","path":"rooms/LOSS_Level_2/LOSS_Level_2.yy",},},
+    {"roomId":{"name":"WIN_2","path":"rooms/WIN_2/WIN_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
