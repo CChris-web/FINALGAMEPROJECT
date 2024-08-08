@@ -6,7 +6,9 @@
   ],
   "managed":true,
   "name":"obj_btn_next_level_2",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btn_parent","path":"objects/obj_btn_parent/obj_btn_parent.yy",},"propertyId":{"name":"button_text1","path":"objects/obj_btn_parent/obj_btn_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Advance Further",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",

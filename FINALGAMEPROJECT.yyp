@@ -115,9 +115,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},},
     {"roomId":{"name":"Mine_Cavern_level_3","path":"rooms/Mine_Cavern_level_3/Mine_Cavern_level_3.yy",},},
     {"roomId":{"name":"Mine_Cavern_level_2","path":"rooms/Mine_Cavern_level_2/Mine_Cavern_level_2.yy",},},
+    {"roomId":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},},
     {"roomId":{"name":"Mine_Cavern","path":"rooms/Mine_Cavern/Mine_Cavern.yy",},},
     {"roomId":{"name":"Controls","path":"rooms/Controls/Controls.yy",},},
     {"roomId":{"name":"LOSS","path":"rooms/LOSS/LOSS.yy",},},
