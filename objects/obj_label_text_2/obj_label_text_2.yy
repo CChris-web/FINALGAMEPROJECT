@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_label_text_2",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_label_parent","path":"objects/obj_label_parent/obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/obj_label_parent/obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"CONTROLS\\nUp Arrow: Jump\\nRight Arrow: Move Right\\nLeft Arrow: Move Right",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_label_parent","path":"objects/obj_label_parent/obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/obj_label_parent/obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"CONTROLS\\nUp Arrow: Jump\\nRight Arrow: Move Right\\nLeft Arrow: Move Right\\n Light: Q",},
   ],
   "parent":{
     "name":"Objects",

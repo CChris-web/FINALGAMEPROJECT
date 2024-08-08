@@ -131,17 +131,17 @@ if(dynamite == 1)
 		/// @DnDVersion : 1
 		/// @DnDHash : 5D606B7D
 		/// @DnDParent : 07AF99A1
-		/// @DnDArgument : "expr" "x"
+		/// @DnDArgument : "expr" "x "
 		/// @DnDArgument : "var" "obj_light.x"
-		obj_light.x = x;
+		obj_light.x = x ;
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 0C142D7C
 		/// @DnDParent : 07AF99A1
-		/// @DnDArgument : "expr" "y"
+		/// @DnDArgument : "expr" "y - 35"
 		/// @DnDArgument : "var" "obj_light.y"
-		obj_light.y = y;
+		obj_light.y = y - 35;
 	
 		/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
 		/// @DnDVersion : 1

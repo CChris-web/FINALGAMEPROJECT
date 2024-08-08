@@ -37,9 +37,3 @@ draw_set_font(OpenSans);
 /// @DnDArgument : "caption" ""Gold Ore: ""
 /// @DnDArgument : "var" "obj_miner_player.ore_gold"
 draw_text(x + 30, y + -15, string("Gold Ore: ") + string(obj_miner_player.ore_gold));
-
-/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-/// @DnDVersion : 1
-/// @DnDHash : 5E8885A9
-/// @DnDDisabled : 1
-/// @DnDArgument : "msg" "ore_gold"
